@@ -1,1 +1,1 @@
-# Lecture_github
+# KREID  study group  Lecture
