@@ -1,11 +1,11 @@
 import sys
 from PyQt5.QtWidgets import *
 
-class MyWindow(QMainWindow):
-    def __init__(self):
-        super().__init__()
-        self.setWindowTitle("첫코딩화면")
-        self.setGeometry(300,300,400,400)
+# class MyWindow(QMainWindow):
+#     def __init__(self):
+#         super().__init__()
+#         self.setWindowTitle("첫코딩화면")
+#         self.setGeometry(300,300,400,400)
         
 
 # Application 만들기
